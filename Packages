@@ -1,0 +1,17 @@
+Package: com.sunshinesong.native-island
+Architecture: iphoneos-arm64
+Version: 1.0.14
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 1044
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: debs/com.sunshinesong.native-island_1.0.14_iphoneos-arm64_clock_v8.deb
+Size: 263408
+MD5sum: e38c8f07ca3e26ca1274c79a718487bd
+SHA1: 80e37207905e6267cc30fcb97da0c6665d681760
+SHA256: b382f087fface8f24c2bdd92061d6da63ea9bf459d1efe17f31a993e4173df57
+SHA512: 1654a472fdcf83a16b8be9cf32af672de0e27caca5ca4d3f43d0c605476f688454f841e0214e616579b9472737806c34b2f656bd409ad3b285b4ba7fc02b63e5
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+ (patched: duration up to 30s + live Beijing clock, arm64e chained-fixups reload fix)
+Name: native-island-notifier
+Author: sunshinesong
+

@@ -1,0 +1,15 @@
+Origin: jumping8 的源
+Label: jumping8 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: jumping8 的越狱软件源
+Support: https://jumping8.github.io/kingjames.github.io/
+MD5Sum:
+ 3939c7cf55f2f3c833bdbeec988bfcc1  829 Packages
+ 6179d33adf7890ef51e069760995547a  614 Packages.gz
+SHA256:
+ 4ba868de247cfd00c037692a87986c0af69e1cb2137311088692b22ec863c3ba  829 Packages
+ 37787a041136445e720c7e658ad53dfc8366ce8d603c34da42bf048629f9b386  614 Packages.gz
